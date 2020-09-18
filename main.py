@@ -12,7 +12,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from logdna import LogDNAHandler
 
 ############################################################################################
-Key = 'eac3b9300450d58d7e8d0f4375b3355c'
+Key = 'insert_your_logdna_key_here'
 
 log = logging.getLogger('logdna')
 log.setLevel(logging.INFO)
